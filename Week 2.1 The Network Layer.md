@@ -1,4 +1,4 @@
-*  The Network Layer
+# The Network Layer
 ---------------------
 
 -> In LAN - nodes can communicate with each other through their physical MAC addressses - works well on small scale and switches can learn the MAC addresses connected to each other port to forward transmission;
